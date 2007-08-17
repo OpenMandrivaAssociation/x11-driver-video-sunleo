@@ -38,6 +38,6 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{_libdir}/xorg/modules/drivers/sunleo_drv.la
 %{_libdir}/xorg/modules/drivers/sunleo_drv.so
-%{_mandir}/man4/sunleo.4.bz2
+%{_mandir}/man4/sunleo.*
 
 
