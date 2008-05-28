@@ -14,7 +14,7 @@ BuildRequires: x11-util-macros >= 1.0.1
 Conflicts: xorg-x11-server < 7.0
 
 %description
-The X.org driver for sun leo Cards.
+x11-driver-video-sunleo is the X.org driver for sun leo Cards.
 
 %prep
 %setup -q -n xf86-video-sunleo-%{version}
