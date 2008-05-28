@@ -2,7 +2,7 @@ ExclusiveArch:	sparc sparc64
 Name: x11-driver-video-sunleo
 Version: 1.1.0
 Release: %mkrel 4
-Summary: The X.org driver for sun leo Cards
+Summary: X.org driver for sun leo Cards
 Group: Development/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/driver/xf86-video-sunleo-%{version}.tar.bz2
